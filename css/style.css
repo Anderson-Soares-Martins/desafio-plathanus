@@ -41,7 +41,7 @@
   border: 1.25px solid rgb(233, 233, 233);
   border-radius: 16px;
   margin: 10px;
-  --shadow: transparent;
+  --shadow:  rgb(223, 178, 235);
   box-shadow: 0 0 10px 5px var(--shadow);
   position: relative;
   font-size: 100%;
@@ -49,7 +49,7 @@
 }
 
 .card:hover {
-  --shadow: rgba(53, 53, 53, 0.103);
+  --shadow: rgb(155, 81, 173);
   /* transform: rotateY(180deg) translate(20px, 20px);
   background: pink; */
 }

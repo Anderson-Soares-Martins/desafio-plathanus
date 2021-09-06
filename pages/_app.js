@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
         <Menu />
         <img
           id="title"
-          src="https://www.plathanus.com.br/img/website/logo.png"
+          src="https://www.plathanus.com.br/images/logo_horizontal.svg"
           alt="Plathanus logo"
         />
       </div>

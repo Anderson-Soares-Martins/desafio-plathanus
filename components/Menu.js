@@ -9,10 +9,10 @@ function Menu() {
             <style>
                 {`
                     .navBar{
-                        background-color: rgb(45, 2, 74);
+                        background-color: rgb(223, 178, 235);
                     }
                     .icons{
-                        color: white;
+                        color: rgb(79, 0, 99);
                     }
                 `}
             </style>
