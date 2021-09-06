@@ -35,7 +35,7 @@
 /* Styles for Cards */
 .card {
   display: inline-block;
-  width: 800px;
+  width: 1000px;
   height: 400px;
   overflow: hidden;
   border: 1.25px solid rgb(233, 233, 233);
