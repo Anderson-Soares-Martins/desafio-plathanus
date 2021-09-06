@@ -10,7 +10,7 @@ Primeiramente crie sua variavel de ambiente, é necessário ter um banco de dado
 
 ## Como usar
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+Para usar este projeto clone o reposítório, você pode fazer isso através do seguinte comando:
 
 ```bash
 git clone https://github.com/Anderson-Soares-Martins/desafio-plathanus.git
