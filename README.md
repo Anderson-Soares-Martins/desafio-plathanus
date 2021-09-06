@@ -13,9 +13,9 @@ Primeiramente crie sua variavel de ambiente, é necessário ter um banco de dado
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
 ```bash
-npx create-next-app --Anderson-Soares-Martins desafi-plathanus nome-projeto
+npx create-next-app --Anderson-Soares-Martins desafio-plathanus nome-projeto
 # or
-yarn create next-app --Anderson-Soares-Martins desafi-plathanus nome-projeto
+yarn create next-app --Anderson-Soares-Martins desafio-plathanus nome-projeto
 ```
 Esse é um projeto já pronto mas com um assunto diferente, é necessário que você entenda sobre para que faça alterações e ainda continue funionando corretamente.
 
